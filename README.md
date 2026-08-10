@@ -17,7 +17,11 @@ A collaboration between the California Science Center — one of the top 10 most
 
 ## My Role
 
-Built the TouchDesigner-driven multi-display system that plays back and synchronizes the video experience across the installation's screens.
+Built the TouchDesigner-driven multi-display system that plays back and synchronizes the video experience across the installation's screens, and composed the original score for the piece. An audio-reactive version of the visuals was also prototyped but never implemented in the final installation.
+
+### Score excerpt
+
+[kelp-forest-theme.mp3](media/kelp-forest-theme.mp3) — a short excerpt from the original score.
 
 ## Source
 
