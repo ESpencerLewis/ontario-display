@@ -2,6 +2,10 @@
 
 A multi-display TouchDesigner installation for the California Science Center's exhibit inside Ontario International Airport — the Science Center's first exhibit outside its Exposition Park campus.
 
+<img src="media/entrance.webp" width="49%"> <img src="media/interior.png" width="49%">
+
+*Photos courtesy of [Ontario International Airport / California Science Center](https://www.flyontario.com/california-science-center).*
+
 ## Overview
 
 Opened September 17, 2024, "California Science Center at ONT" is a dedicated space in Terminal 4 of Ontario International Airport where travelers can relax pre-flight inside an immersive, curated environment. The launch experience showcases the Kelp Forest, a highlight of the Science Center's Ecosystems wing — footage captured by professional divers inside the Center's 188,000-gallon aquarium specifically for this installation.
